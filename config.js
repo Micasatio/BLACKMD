@@ -1,9 +1,9 @@
 //============= Datos del Bot =============//
 
-global.owner = ['5219996125657']
-global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '𝕊𝕚𝕞𝕡𝕝𝕖𝔹𝕠𝕥'
-global.wm = '𝕊𝕚𝕞𝕡𝕝𝕖𝔹𝕠𝕥'
+global.owner = ['595983186566']
+global.packname = '✌️'
+global.author = 'Black Bot'
+global.wm = 'BlackBot'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 //============= urlButtons =============//
@@ -14,8 +14,8 @@ global.linkUrlbot = "https://www.instagram.com/ilmanhdyt_"
 //=========================================================================//
 
 global.DeveloperMode = 'false' 
-global.linkGC = []
-global.mods = [] 
+global.linkGC = ['15125806885']
+global.mods = ['15125806885'] 
 global.prems = [] 
 global.APIs = { 
 nrtm: 'https://nurutomo.herokuapp.com',
