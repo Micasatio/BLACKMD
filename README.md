@@ -27,8 +27,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > apt install nodejs -y
 > apt install ffmpeg -y
 > apt install imagemagick -y
-> git clone https://github.com/BrunoSobrino/SimpleBot
-> cd SimpleBot
+> git clone https://github.com/Micasatio/BLACKMD
+> cd BLACKMD 
 > yarn install
 > npm install
 > npm update
@@ -40,7 +40,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd SimpleBot
+> cd BLACKMD
 > npm start
 ```
 
@@ -48,7 +48,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd SimpleBot
+> cd BLACKMD
 > rm -rf session.data.json
 > npm start
 ```
@@ -56,4 +56,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 <a href="https://github.com/Micasatio"><img src="https://github.com/Micasatio.png" width="300" height="300" alt="BrunoSobrino"/></a>
 
-`TheMystic-Bot-MD _ By Bruno Sobrino`
+`BLACK_BOT _ By Bruno Sobrino`
